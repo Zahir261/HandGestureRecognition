@@ -2,7 +2,7 @@
 
 This project is based on Convolutional Neural network.
 
-We selected 10 static gestures (Index, Peace, Three, Palm Opened, Palm Closed, OK, Thumbs, Fist, Swing, Smile) to recognize. Each class has 800 images for training purpose. The dataset is provided at https://drive.google.com/open?id=1uzbeBoJlVvFt9xCkxgKos6fD96pKcB26.
+We selected 10 static gestures (Index, Peace, Three, Palm Opened, Palm Closed, OK, Thumbs, Fist, Swing, Smile) to recognize. Each class has 800 images for training purpose.
 
 The CNN that we are going to use to recognize hand gesture is composed two convolution layer, two max pooling layer, two fully connected layer and output layer. There are three dropout performance in the network.
 
